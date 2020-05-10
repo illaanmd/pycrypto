@@ -1,1 +1,1 @@
-This is a blockchain cryptocurrency proyect based on python.
+This is a blockchain cryptocurrency project based on python.
